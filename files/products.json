@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Silla",
+    "description": "Silla de plastico blanca",
+    "price": 3500,
+    "thumbnail": "No img",
+    "code": "101",
+    "stock": 90
+  },
+  {
+    "id": 2,
+    "title": "Mesa",
+    "description": "Mesa de madera",
+    "price": 20500,
+    "thumbnail": "No img",
+    "code": "202",
+    "stock": 35
+  },
+  {
+    "id": 3,
+    "title": "Lampara",
+    "description": "Lampara de pie",
+    "price": 9500,
+    "thumbnail": "No img",
+    "code": "303",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Alfombra",
+    "description": "Alfombra nordica negra ",
+    "price": 15000,
+    "thumbnail": "No img",
+    "code": "404",
+    "stock": 500
+  },
+  {
+    "id": 5,
+    "title": "Cortina",
+    "description": "Cortina blackout",
+    "price": 45000,
+    "thumbnail": "No img",
+    "code": "505",
+    "stock": 20
+  }
+]
